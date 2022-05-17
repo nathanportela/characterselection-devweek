@@ -9,7 +9,7 @@ body{
 
 body::before{
     content: '';
-    background-image: url("../Imagens/1cYrMYF.gif");
+    background-image: url('../Imagens/1cYrMYF.gif');
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
